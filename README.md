@@ -1,9 +1,13 @@
-# basic-java-template
-Basic Java Template with Slf4j, Log4j, Junit Jupiter, Jacoco, AssertJ, JQwik
+# NFJS Java Sessions Monitoring
+Repository to perform monitoring on the JVM. Includes
 
+* `jcmd`
+* jConsole
+* VisualVM 
 
 ## Steps to use
 
-1. Select use template
-2. Create your repository
-3. Clone your repository
+1. Clone Repository
+2. Ensure you have JDK 17+, IDE
+3. Install Flight Recorder
+4. Install VisualVM 
